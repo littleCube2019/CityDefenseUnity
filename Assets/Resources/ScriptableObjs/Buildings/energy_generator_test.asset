@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 806816deadfebdf47adce024fb5c2808, type: 3}
+  m_Name: energy_generator_test
+  m_EditorClassIdentifier: 
+  buildingName: energy_generator_test
+  buildingType: 1
+  baseArgs:
+    energyCost: 5
+    minWorker: 0
+  sprite: {fileID: 0}
+  prefab: {fileID: 1067527082427133461, guid: 6c84ebb065c1d0e4e99572ae7c60016c, type: 3}
+  unlockRequire: []
+  energyGeneratorArgs:
+    amount: 3
+    capacity: 10
+    cooldown: 3

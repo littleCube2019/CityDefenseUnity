@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4e2e857fec12446b783a61e2bdce7e, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  enemyName: enemy_test
+  sprite: {fileID: -2413806693520163455, guid: ebe73ca9363db456bacf42c025bb4847, type: 3}
+  args:
+    maxHitPoint: 3
+    attackPower: 2
+    moveSpeed: 1
+    cooldown: 1
+  prefab: {fileID: 180149684765898196, guid: 9e797bbbf500b4f44ab493d7a91d7377, type: 3}

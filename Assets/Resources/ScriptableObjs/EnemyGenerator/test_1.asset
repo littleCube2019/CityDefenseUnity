@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2997ebc97dac9e84baa0dd49e463eab3, type: 3}
+  m_Name: test_1
+  m_EditorClassIdentifier: 
+  enemyGeneratorName: test_1
+  enemyGeneratorType: 0
+  generatedEnemyName: enemy_test
+  generateTimeInterval: 1
+  maxEnemyNum: 50
+  prefab: {fileID: 4858157347678731344, guid: 9983e7380c39b0e4ea5421371d3515a7, type: 3}
+  sprite: {fileID: 5559745257100799005, guid: f8c215a70c4863c4b8e6e988c25c0260, type: 3}

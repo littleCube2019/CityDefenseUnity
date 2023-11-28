@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d2d67da51ab7e04ea72b165527f8457, type: 3}
+  m_Name: Projectile
+  m_EditorClassIdentifier: 
+  projectileName: explode_test
+  sprite: {fileID: 0}
+  args:
+    speed: 0
+    effectRange: 0
+    duration: 0
+  prefab: {fileID: 4032304028553631768, guid: d980b2d523b56b94babc440ae7d89c97, type: 3}
+  projectileAnimation: {fileID: 0}
+  effectAnimation: {fileID: 0}
